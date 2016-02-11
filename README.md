@@ -1,0 +1,2 @@
+# blog
+open blog
